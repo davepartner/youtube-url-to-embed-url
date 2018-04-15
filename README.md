@@ -32,4 +32,4 @@ A simple PHP code to effectively  convert normal youtube url to youtube embed ur
 ```
 
 Check me out on udemy, you could find one of my courses you may like
-(Dave Partner)[udemy.com/user/daveozoalor]
+[Dave Partner](udemy.com/user/daveozoalor)
